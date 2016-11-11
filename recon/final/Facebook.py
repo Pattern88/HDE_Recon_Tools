@@ -214,4 +214,4 @@ class Facebook(object):
             list_array.append(array)
         return list_array
 
-Facebook = Facebook('teslamotors.com')
+#Facebook = Facebook('teslamotors.com')

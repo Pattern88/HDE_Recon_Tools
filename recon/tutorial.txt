@@ -2,7 +2,7 @@
 							-------------------------
 						      System purpose - reconesense
 
-						Daniel Banai | Gitit Regev | Lior Haiman
+						
 
 System classes 
 ---------------
