@@ -1,0 +1,24 @@
+Recon Data
++----+------------------------------+------------------------+---------------+----------------+---------------+--------+----------+----------+------+---------+-------------+
+| ID | host                         |                     ip |      city     |     region     |    country    |  lat   |   long   | zip_code | port | service |    moudle   |
++----+------------------------------+------------------------+---------------+----------------+---------------+--------+----------+----------+------+---------+-------------+
+| 1  | www.teslamotors.com          |          23.66.217.109 |   Cambridge   | Massachusetts  | United States | 42.363 | -71.085  |  02142   |      |         | GeoLocation |
+| 2  | my.teslamotors.com           |          23.66.217.109 |   Cambridge   | Massachusetts  | United States | 42.363 | -71.085  |  02142   |      |         | GeoLocation |
+| 3  | shop.teslamotors.com         |           23.227.38.34 |     Ottawa    |    Ontario     |     Canada    | 45.318 | -75.895  |   K1N    |      |         | GeoLocation |
+| 4  | ir.teslamotors.com           |         206.200.251.19 |    New York   |    New York    | United States | 40.708 | -74.014  |  10006   |      |         | GeoLocation |
+| 5  | autodiscover.teslamotors.com |         205.234.27.237 |    Fremont    |   California   | United States | 37.548 | -121.989 |  94536   |      |         | GeoLocation |
+| 6  | cn.teslamotors.com           |          23.66.217.109 |   Cambridge   | Massachusetts  | United States | 42.363 | -71.085  |  02142   |      |         | GeoLocation |
+| 7  | feedback.teslamotors.com     |           23.45.33.143 |   Cambridge   | Massachusetts  | United States | 42.363 | -71.085  |  02142   |      |         | GeoLocation |
+| 8  | helpdesk.teslamotors.com     |         199.91.140.100 |  Santa Clara  |   California   | United States | 37.396 | -121.962 |  95054   |      |         | GeoLocation |
+| 9  | ir.teslamotors.com           |         206.200.251.19 |    New York   |    New York    | United States | 40.708 | -74.014  |  10006   |      |         | GeoLocation |
+| 10 | japan.teslamotors.com        | 2607:f8b0:400d:c03::79 |   Morganton   | North Carolina | United States | 35.745 | -81.685  |  28680   |      |         | GeoLocation |
+| 11 | marketing.teslamotors.com    |         209.167.231.15 |    Toronto    |    Ontario     |     Canada    | 43.653 | -79.369  |   M5V    |      |         | GeoLocation |
+| 12 | my.teslamotors.com           |          23.66.217.109 |   Cambridge   | Massachusetts  | United States | 42.363 | -71.085  |  02142   |      |         | GeoLocation |
+| 13 | my.teslamotors.com           |          23.66.217.109 |   Cambridge   | Massachusetts  | United States | 42.363 | -71.085  |  02142   |      |         | GeoLocation |
+| 14 | service.teslamotors.com      |          209.11.133.37 | Overland Park |     Kansas     | United States |  38.9  | -94.706  |  66213   |      |         | GeoLocation |
+| 15 | shop.teslamotors.com         |           23.227.38.34 |     Ottawa    |    Ontario     |     Canada    | 45.318 | -75.895  |   K1N    |      |         | GeoLocation |
+| 16 | upload.teslamotors.com       |         205.234.27.250 |    Fremont    |   California   | United States | 37.548 | -121.989 |  94536   |      |         | GeoLocation |
+| 17 | vpn.teslamotors.com          |         205.234.27.218 |    Fremont    |   California   | United States | 37.548 | -121.989 |  94536   |      |         | GeoLocation |
+| 18 | www.teslamotors.com          |          23.66.217.109 |   Cambridge   | Massachusetts  | United States | 42.363 | -71.085  |  02142   |      |         | GeoLocation |
+| 19 | xmail.teslamotors.com        |         205.234.27.237 |    Fremont    |   California   | United States | 37.548 | -121.989 |  94536   |      |         | GeoLocation |
++----+------------------------------+------------------------+---------------+----------------+---------------+--------+----------+----------+------+---------+-------------+

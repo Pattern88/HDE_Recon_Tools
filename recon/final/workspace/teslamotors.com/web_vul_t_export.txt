@@ -1,0 +1,42 @@
+Recon Data
++----+-----------------------------------------------+------------+
+| ID | url                                           |     moudle |
++----+-----------------------------------------------+------------+
+| 1  | http://www.teslamotors.com/includes/          |     Robots |
+| 2  | http://www.teslamotors.com/misc/              |     Robots |
+| 3  | http://www.teslamotors.com/modules/           |     Robots |
+| 4  | http://www.teslamotors.com/profiles/          |     Robots |
+| 5  | http://www.teslamotors.com/scripts/           |     Robots |
+| 6  | http://www.teslamotors.com/themes/            |     Robots |
+| 7  | http://www.teslamotors.com/CHANGELOG.txt      |     Robots |
+| 8  | http://www.teslamotors.com/cron.php           |     Robots |
+| 9  | http://www.teslamotors.com/INSTALL.mysql.txt  |     Robots |
+| 10 | http://www.teslamotors.com/INSTALL.pgsql.txt  |     Robots |
+| 11 | http://www.teslamotors.com/INSTALL.sqlite.txt |     Robots |
+| 12 | http://www.teslamotors.com/install.php        |     Robots |
+| 13 | http://www.teslamotors.com/INSTALL.txt        |     Robots |
+| 14 | http://www.teslamotors.com/LICENSE.txt        |     Robots |
+| 15 | http://www.teslamotors.com/MAINTAINERS.txt    |     Robots |
+| 16 | http://www.teslamotors.com/update.php         |     Robots |
+| 17 | http://www.teslamotors.com/UPGRADE.txt        |     Robots |
+| 18 | http://www.teslamotors.com/xmlrpc.php         |     Robots |
+| 19 | http://www.teslamotors.com/admin/             |     Robots |
+| 20 | http://www.teslamotors.com/comment/reply/     |     Robots |
+| 21 | http://www.teslamotors.com/filter/tips/       |     Robots |
+| 22 | http://www.teslamotors.com/node/add/          |     Robots |
+| 23 | http://www.teslamotors.com/search/            |     Robots |
+| 24 | http://www.teslamotors.com/user/register/     |     Robots |
+| 25 | http://www.teslamotors.com/user/password/     |     Robots |
+| 26 | http://www.teslamotors.com/user/login/        |     Robots |
+| 27 | http://www.teslamotors.com/user/logout/       |     Robots |
+| 28 | http://www.teslamotors.com/?q=admin/          |     Robots |
+| 29 | http://www.teslamotors.com/?q=comment/reply/  |     Robots |
+| 30 | http://www.teslamotors.com/?q=filter/tips/    |     Robots |
+| 31 | http://www.teslamotors.com/?q=node/add/       |     Robots |
+| 32 | http://www.teslamotors.com/?q=search/         |     Robots |
+| 33 | http://www.teslamotors.com/?q=user/password/  |     Robots |
+| 34 | http://www.teslamotors.com/?q=user/register/  |     Robots |
+| 35 | http://www.teslamotors.com/?q=user/login/     |     Robots |
+| 36 | http://www.teslamotors.com/?q=user/logout/    |     Robots |
+| 37 | http://assets.teslastatic.com/index.html      | AdminPanel |
++----+-----------------------------------------------+------------+
